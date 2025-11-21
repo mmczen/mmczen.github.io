@@ -1,2 +1,2 @@
 https://mmczen.github.io
-https://mastodon.social/@mmcnet
+https://infosec.exchange/@mmczen
