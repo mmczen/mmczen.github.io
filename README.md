@@ -1,2 +1,2 @@
 # mmczen.github.io
-https://mastodon.social/@mmczen
+https://mastodon.social/@mmcnet
